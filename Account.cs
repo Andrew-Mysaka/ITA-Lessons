@@ -1,4 +1,4 @@
-﻿namespace PatternCommand
+﻿namespace Ita.Patterns.Command
 {
     public class Account
     {

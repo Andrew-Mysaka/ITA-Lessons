@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections.Concurrent;
 
-namespace PatternCommand
+namespace Ita.Patterns.Command
 {
     public class Deposit : ITransaction
     {

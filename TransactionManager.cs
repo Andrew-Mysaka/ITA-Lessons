@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace PatternCommand
+namespace Ita.Patterns.Command
 {
     public class TransactionManager
     {

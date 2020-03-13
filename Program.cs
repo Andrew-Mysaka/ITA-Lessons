@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace PatternCommand
+namespace Ita.Patterns.Command
 {
     class Program
     {

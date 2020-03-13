@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PatternCommand
+namespace Ita.Patterns.Command
 {
     public class Withdraw : ITransaction
     {
